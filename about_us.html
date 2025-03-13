@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Dorzi</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <!-- Google Fonts: Bebas Neue and Roboto -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700;900&display=swap"
+          rel="stylesheet">
+    <style>
+        .font-bebas {
+            font-family: 'Bebas Neue', sans-serif;
+        }
+        .font-roboto {
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="bg-amber-100 py-20 px-4 md:px-32">
+        <div class="flex flex-col md:flex-row justify-between items-center">
+            <div class="space-y-3">
+                <h1 class="text-7xl uppercase font-bebas">
+                    <span class="text-[#E76F51]">About</span>
+                    <br> Dorzi Tailoring
+                </h1>
+                <p class="font-roboto">Crafting perfection in every stitch since 2023.</p>
+                <button class="py-4 px-9 bg-gradient-to-r from-[#E76F51] to-[#d65a3d] rounded-xl uppercase text-white font-medium">
+                    Explore Our Story
+                </button>
+            </div>
+            <img class="mt-6 md:mt-0" src="media/photos/about_us_model.jpg" alt="About Us Model" />
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 md:px-0">
+        <!-- Our Story Section -->
+        <section class="py-12">
+            <h2 class="text-5xl font-bebas">Our Story</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+                <div class="space-y-4">
+                    <p class="font-roboto text-gray-600">
+                        Dorzi Tailoring was founded in 2023 with a simple mission: to provide high-quality, custom-tailored clothing that fits perfectly and makes you feel confident. Our journey began in a small workshop, where we combined traditional craftsmanship with modern techniques to create timeless pieces.
+                    </p>
+                    <p class="font-roboto text-gray-600">
+                        Over the years, we've grown into a trusted name in the tailoring industry, serving clients from all walks of life. Whether it's a bespoke suit, a wedding dress, or a simple alteration, we pour our passion and expertise into every stitch.
+                    </p>
+                </div>
+                <img class="rounded-lg" src="media/photos/our_workshop.jpg" alt="Our Workshop" />
+            </div>
+        </section>
+
+        <!-- Our Mission Section -->
+        <section class="py-12">
+            <h2 class="text-5xl font-bebas">Our Mission</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+                <img class="rounded-lg" src="media/photos/our_mission.jpg" alt="Our Mission" />
+                <div class="space-y-4">
+                    <p class="font-roboto text-gray-600">
+                        At Dorzi, our mission is to redefine the art of tailoring by combining precision, creativity, and elegance. We believe that every piece of clothing tells a story, and we strive to make that story unforgettable.
+                    </p>
+                    <p class="font-roboto text-gray-600">
+                        We are committed to sustainability, using eco-friendly materials and practices wherever possible. Our goal is to create clothing that not only looks good but also feels good—for you and the planet.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Meet the Team Section -->
+        <section class="py-12">
+            <h2 class="text-5xl font-bebas">Meet the Team</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mt-8">
+                <!-- Team Member 1 -->
+                <div class="card bg-base-100 shadow-lg">
+                    <figure class="px-10 pt-10">
+                        <img src="media/photos/team-member-1.jpg" alt="Team Member 1" class="rounded-full w-32 h-32 object-cover" />
+                    </figure>
+                    <div class="card-body items-center text-center">
+                        <h3 class="card-title text-2xl font-bold">John Doe</h3>
+                        <p class="text-gray-600">Founder & Master Tailor</p>
+                        <p class="text-gray-600">With over 20 years of experience, John is the heart and soul of Dorzi.</p>
+                    </div>
+                </div>
+
+                <!-- Team Member 2 -->
+                <div class="card bg-base-100 shadow-lg">
+                    <figure class="px-10 pt-10">
+                        <img src="media/photos/team-member-2.jpg" alt="Team Member 2" class="rounded-full w-32 h-32 object-cover" />
+                    </figure>
+                    <div class="card-body items-center text-center">
+                        <h3 class="card-title text-2xl font-bold">Jane Smith</h3>
+                        <p class="text-gray-600">Lead Designer</p>
+                        <p class="text-gray-600">Jane's creativity and attention to detail bring our designs to life.</p>
+                    </div>
+                </div>
+
+                <!-- Team Member 3 -->
+                <div class="card bg-base-100 shadow-lg">
+                    <figure class="px-10 pt-10">
+                        <img src="media/photos/team-member-3.jpg" alt="Team Member 3" class="rounded-full w-32 h-32 object-cover" />
+                    </figure>
+                    <div class="card-body items-center text-center">
+                        <h3 class="card-title text-2xl font-bold">Michael Brown</h3>
+                        <p class="text-gray-600">Customer Relations</p>
+                        <p class="text-gray-600">Michael ensures every client has a seamless and enjoyable experience.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="bg-[#0A0826] text-white py-12 text-center">
+        <div class="max-w-6xl mx-auto px-4">
+            <p class="text-xl font-semibold">© 2023 Dorzi. All Rights Reserved.</p>
+            <div class="mt-4">
+                <a href="#" class="text-white hover:text-[#E76F51] mx-2">Privacy Policy</a>
+                <a href="#" class="text-white hover:text-[#E76F51] mx-2">Terms of Service</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
