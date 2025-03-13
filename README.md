@@ -19,3 +19,26 @@ Fuaari is a modern web application designed to provide users with a seamless and
    git clone https://github.com/mahiamOmO/Fuaari-frontend.git
 
 
+   ## Screenshots 📸
+
+   - **Login & Sign-up Page**  
+     ![Login & Sign-up Page](./screenshots/login-signup.png)
+   
+   - **Home Page**  
+     ![Home Page](./screenshots/home.png)
+   
+   - **About Us & Services Page**  
+     ![About Us & Services Page](./screenshots/about-services.png)
+
+
+
+     ## License 📜
+
+     This project is licensed under the MIT License.
+     
+     ## Contact 📩
+     
+     For any inquiries or support, feel free to reach out:
+     
+     - GitHub: [@mahiamOmO](https://github.com/mahiamOmO)
+     - LinkedIn: [Mahia Momo](https://www.linkedin.com/in/mahiamomo12/)
