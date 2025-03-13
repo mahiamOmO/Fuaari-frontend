@@ -21,25 +21,26 @@ Fuaari is a modern web application designed to provide users with a seamless and
 
    ## Screenshots 📸
 
-   - **Login & Sign-up Page**  
-     ![Log in Page](./screenshot/log_in.png) 
-     ![Sign up Page] (./screenshot/sign_up.png)
-   
-   - **Home Page**  
-     ![Home Page](./screenshot/home_page 1.png)   
-     ![Home Page](./screenshot/home_page 2.png)
-     ![Home Page](./screenshot/home_page 3.png)
-     ![Home Page](./screenshot/home_page 4.png)
-   
-   - **Services Page**  
-     ![ Services Page](./screenshot/services.png)
-     ![ Services Page](./screenshot/services-1.png)
+- **Login & Sign-up Page**  
+  ![Log in Page](./screenshot/log_in.png)  
+  ![Sign up Page](./screenshot/sign_up.png)  
 
-   - ** About Us**
-   - ![About Us](./screenshot/about us.png)
+- **Home Page**  
+  ![Home Page](./screenshot/home_page_1.png)  
+  ![Home Page](./screenshot/home_page_2.png)  
+  ![Home Page](./screenshot/home_page_3.png)  
+  ![Home Page](./screenshot/home_page_4.png)  
 
-   - **Footer**
-   ![ Footer](./screenshot/footer.png)
+- **Services Page**  
+  ![Services Page](./screenshot/services.png)  
+  ![Services Page](./screenshot/services-1.png)  
+
+- **About Us**  
+  ![About Us](./screenshot/services.png)  
+
+- **Footer**  
+  ![Footer](./screenshot/footer.png)  
+
 
 
      ## License 📜
