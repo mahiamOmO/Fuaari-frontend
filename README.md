@@ -26,7 +26,7 @@ Fuaari is a modern web application designed to provide users with a seamless and
   ![Sign up Page](./screenshot/sign_up.png)  
 
 - **Home Page**  
-  ![Home Page](./screenshot/home_page_1.png)  
+   ![Home Page](./screenshot/home_page_1.png)  
   ![Home Page](./screenshot/home_page_2.png)  
   ![Home Page](./screenshot/home_page_3.png)  
   ![Home Page](./screenshot/home_page_4.png)  
